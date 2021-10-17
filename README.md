@@ -5,7 +5,7 @@ use individual approach and my creativity to find a perfect professional solutio
 I work a lot with:
 
 🔧 HTML , CSS & SASS, JavaScript & TypeScript
-⭐ Angular, VueJs, RxJS, Jest, Jasmine, ExpressJs, MongoDB, MySQL
+⭐ Angular, VueJs,Laravel, RxJS, Jest, Jasmine, ExpressJs, MongoDB, MySQL
 👀 User Experience, Usability, Visual Design, Accessibility, Performance
 💼 Git, Firebase, Amazon Web Services (AWS), CI / CD, SCRUM ,RESTFUL API
 
