@@ -1,3 +1,5 @@
-**"Every day in my life is a challenge, and I am glad because I am still fighting"**
+"Every day brings new challenges, and I’m grateful to still be pushing forward.
 
-I am a software engineer who has spent all his life developing opensource tools and applications to solve common issues because I like solving problems 🤓 and it's a part of my life, support me so I can be a full-time opensource developer 🐱‍🏍
+As a passionate software engineer, I’ve dedicated my career to developing open-source tools and applications that solve everyday problems. Problem-solving is not just my job—it's a core part of who I am 🤓. With your support, I aim to pursue my dream of becoming a full-time open-source developer 🐱‍🏍.
+
+Let's build and create together!
